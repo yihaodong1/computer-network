@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "tcp.h": "c",
+        "*.tcc": "c",
+        "fstream": "c",
+        "istream": "c",
+        "ostream": "c",
+        "tcp_sock.h": "c",
+        "cmath": "c",
+        "unistd.h": "c",
+        "tcp_timer.h": "c"
+    }
+}
